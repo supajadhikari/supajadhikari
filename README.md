@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supajadhikari" alt="supajadhikari" /></a> </p>
 
-- 📫 How to reach me **adhikarisupaj1@gmail.com**
+- 📫 How to reach me **adhspj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adhikarisupaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhikarisupaj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/supaj-adhikari-758716327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supaj-adhikari-758716327" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30257663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30257663" height="30" width="40" /></a>
 </p>
 
