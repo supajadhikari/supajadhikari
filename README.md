@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supajadhikari" alt="supajadhikari" /></a> </p>
 
-- 📫 How to reach me **linkedin.com/in/supaj-adhikari-758716327/**
+- 📫 How to reach me **adhikarisupaj1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
