@@ -1,59 +1,79 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=SUPAJ+ADHIKARI;LEVEL+99+DEV;INSERT+COIN+TO+START" alt="Retro Gamer Title" />
-</h1>
+<div align="center">
+
+# 🎚️ SYSTEM_32: SUPAJ_ADHIKARI
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=EAB308&center=true&vCenter=true&width=600&lines=WELCOME+TO+THE+JUNGLE;FULL-STACK+ORCHESTRATOR;GENERATIVE+AI+ADDICT" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PLAYER_1-READY-FF0055?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
-  <img src="https://img.shields.io/badge/LIVES-❤❤❤-39FF14?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=supajadhikari&label=HIGH_SCORE&color=7C3AED&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VIBE-80s_GRUNGE-EAB308?style=for-the-badge&logo=winamp&logoColor=black" />
+  <img src="https://img.shields.io/badge/LEVEL-99-FFD700?style=for-the-badge&logo=retroarch&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=supajadhikari&label=PROFILE_LOADS&color=EAB308&style=for-the-badge" alt="Views" />
 </p>
 
 ---
 
-### 🕹️ CHARACTER_SELECT: [SUPAJ]
-> **CLASS:** Full-Stack Mage  
-> **CURRENT_QUEST:** Conquering **Generative AI** > **EXP_POINTS:** Python, React, JS, Cloud  
-
-* 📟 **COMMS:** [adhikarisupaj1@gmail.com](mailto:adhikarisupaj1@gmail.com)
-* 💾 **SAVE_STATE:** Located in the Cloud
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>📼 DEV_LOG: BOOT_SEQUENCE</h3>
+      <p>I build modern tech with a <b>vintage heart</b>. Currently deep-diving into <b>Generative AI</b> and architecting glossy, high-performance backends.</p>
+      <ul style="list-style-type: '⚡ '">
+        <li><b>Main Skill:</b> Python / Django / React</li>
+        <li><b>Current Objective:</b> Master Neural Networks</li>
+        <li><b>Comms:</b> <a href="mailto:adhikarisupaj1@gmail.com">adhikarisupaj1@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50" height="50" style="background: #EAB308; padding: 10px; border-radius: 15px; border: 4px solid #8B4513;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📺 FEATURED_WORLD (MY PROJECT)
+### 📻 NOW_PLAYING: FEATURED_PROJECT
 <div align="center">
-  <p><b>NOW LOADING...</b></p>
+  <br />
   <a href="https://YOUR-PROJECT-URL-HERE.com" target="_blank">
-    <img src="https://img.shields.io/badge/PRESS_START-VISIT_WEBSITE-39FF14?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=FF0055" height="50" />
+    <img src="https://img.shields.io/badge/%E2%96%B6_START_PROJECT-CLICK_HERE-black?style=for-the-badge&logo=playstation&logoColor=EAB308&labelColor=333333" height="60" />
   </a>
-  <br>
-  <code>[ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ ] 90%</code>
+  <p><i>Uplink connected to your website... click above to engage.</i></p>
+  <br />
 </div>
 
 ---
 
-### 🎒 INVENTORY (TOOLS & SKILLS)
+### 🎒 INVENTORY (EQUIPPED_ITEMS)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,django,react,nodejs,mongodb,postgres,aws,firebase,flask,git,linux,bash,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,django,react,nodejs,mongodb,postgres,aws,firebase,flask,git,linux,bash,html,css&theme=light" />
 </p>
 
 ---
 
-### 📡 MULTIPLAYER_LOBBY (CONNECT)
-<p align="left">
-<a href="https://linkedin.com/in/supaj-adhikari-758716327"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a>
-<a href="https://dev.to/spj_adh_f2f2331b90e182be9"><img src="https://img.shields.io/badge/DEV_LOG-0A0A0A?style=plastic&logo=devdotto&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/30257663/supaj-adhikari"><img src="https://img.shields.io/badge/STACK_OVERFLOW-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" /></a>
-<a href="https://discord.gg/h7E3NZ5d2H"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=plastic&logo=discord&logoColor=white" /></a>
+### 📡 GLOBAL_UPLINK
+<p align="center">
+<a href="https://linkedin.com/in/supaj-adhikari-758716327" target="blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-D4AF37?style=plastic&logo=linkedin&logoColor=black" />
+</a>
+<a href="https://dev.to/spj_adh_f2f2331b90e182be9" target="blank">
+  <img src="https://img.shields.io/badge/DEV.TO-EAB308?style=plastic&logo=devdotto&logoColor=black" />
+</a>
+<a href="https://stackoverflow.com/users/30257663/supaj-adhikari" target="blank">
+  <img src="https://img.shields.io/badge/STACK_OVERFLOW-F48024?style=plastic&logo=stack-overflow&logoColor=black" />
+</a>
+<a href="https://discord.gg/h7E3NZ5d2H" target="blank">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=plastic&logo=discord&logoColor=white" />
+</a>
 </p>
 
 ---
 
-### 👾 SYSTEM_DIAGNOSTICS
+### 🕯️ SAVED_GAMES
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supajadhikari&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=FF0055&icon_color=39FF14&text_color=9ece6a&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supajadhikari&show_icons=true&layout=compact&theme=tokyonight&bg_color=1a1b26&title_color=FF0055&icon_color=39FF14&text_color=9ece6a&hide_border=false" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supajadhikari&theme=solarized_light" />
 </p>
 
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&color=39FF14&center=true&width=400&lines=GAME+OVER+PREVENTED;STAY+RADICAL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&color=8B4513&center=true&width=400&lines=END+OF+TRANSMISSION...;SKEUOMORPHISM+IS+NOT+DEAD" />
 </p>
