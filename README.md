@@ -1,76 +1,59 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SYSTEM+BOOT+COMPLETE...;WELCOME+USER:+SUPAJ+ADHIKARI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=SUPAJ+ADHIKARI;LEVEL+99+DEV;INSERT+COIN+TO+START" alt="Retro Gamer Title" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-RETRO_OS_v1.0-00FF41?style=for-the-badge&logo=dosbox&logoColor=00FF41&labelColor=000000" />
-  <img src="https://img.shields.io/badge/STATUS-ENCRYPTING_GEN_AI-00FF41?style=for-the-badge&logo=matrix&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PLAYER_1-READY-FF0055?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVES-❤❤❤-39FF14?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=supajadhikari&label=HIGH_SCORE&color=7C3AED&style=for-the-badge" />
 </p>
 
 ---
 
-## 🖥️ SESSION_INFO
-> **USER:** Supaj Adhikari  
-> **MISSION:** Mastering Generative AI  
-> **LOCATION:** 127.0.0.1  
+### 🕹️ CHARACTER_SELECT: [SUPAJ]
+> **CLASS:** Full-Stack Mage  
+> **CURRENT_QUEST:** Conquering **Generative AI** > **EXP_POINTS:** Python, React, JS, Cloud  
 
-* 🌱 **CURRENT_PROCESS:** Learning **Generative AI**
-* 📫 **PING_ME:** [adhikarisupaj1@gmail.com](mailto:adhikarisupaj1@gmail.com)
-* 📟 **DEVICE:** Nokia 3310 (Simulated)
+* 📟 **COMMS:** [adhikarisupaj1@gmail.com](mailto:adhikarisupaj1@gmail.com)
+* 💾 **SAVE_STATE:** Located in the Cloud
 
 ---
 
-## 🕹️ SYSTEM_STATS
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=supajadhikari&label=TOTAL_UPLINK_VIEWS&color=00FF41&style=for-the-badge" alt="Retro Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=supajadhikari&theme=matrix&no-bg=true&column=4" alt="trophies" />
+### 📺 FEATURED_WORLD (MY PROJECT)
+<div align="center">
+  <p><b>NOW LOADING...</b></p>
+  <a href="https://YOUR-PROJECT-URL-HERE.com" target="_blank">
+    <img src="https://img.shields.io/badge/PRESS_START-VISIT_WEBSITE-39FF14?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=FF0055" height="50" />
   </a>
-</p>
+  <br>
+  <code>[ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ ] 90%</code>
+</div>
 
 ---
 
-## 🛠️ TECH_STACK (LOADED_MODULES)
+### 🎒 INVENTORY (TOOLS & SKILLS)
 <p align="left">
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></kbd>
-  <kbd><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></kbd>
-  <kbd><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></kbd>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,django,react,nodejs,mongodb,postgres,aws,firebase,flask,git,linux,bash,html,css&theme=dark" />
 </p>
 
 ---
 
-## 📟 DATABASE_CONNECTION
-<p align="center">
-<a href="https://dev.to/spj_adh_f2f2331b90e182be9"><img src="https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=devdotto&logoColor=00FF41" /></a>
-<a href="https://linkedin.com/in/supaj-adhikari-758716327"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
-<a href="https://stackoverflow.com/users/30257663/supaj-adhikari"><img src="https://img.shields.io/badge/STACK_OVERFLOW-000000?style=for-the-badge&logo=stackoverflow&logoColor=00FF41" /></a>
-<a href="https://discord.gg/h7E3NZ5d2H"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=00FF41" /></a>
+### 📡 MULTIPLAYER_LOBBY (CONNECT)
+<p align="left">
+<a href="https://linkedin.com/in/supaj-adhikari-758716327"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a>
+<a href="https://dev.to/spj_adh_f2f2331b90e182be9"><img src="https://img.shields.io/badge/DEV_LOG-0A0A0A?style=plastic&logo=devdotto&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/30257663/supaj-adhikari"><img src="https://img.shields.io/badge/STACK_OVERFLOW-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://discord.gg/h7E3NZ5d2H"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=plastic&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📈 ANALYZING_REPOSITORY_DATA...
+### 👾 SYSTEM_DIAGNOSTICS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supajadhikari&show_icons=true&locale=en&layout=compact&theme=matrix&hide_border=true" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=supajadhikari&show_icons=true&locale=en&theme=matrix&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=supajadhikari&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=FF0055&icon_color=39FF14&text_color=9ece6a&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supajadhikari&show_icons=true&layout=compact&theme=tokyonight&bg_color=1a1b26&title_color=FF0055&icon_color=39FF14&text_color=9ece6a&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/supajadhikari/supajadhikari/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&color=39FF14&center=true&width=400&lines=GAME+OVER+PREVENTED;STAY+RADICAL" />
 </p>
-
----
-
-<h6 align="center">
-  MADE WITH <img src="https://img.shields.io/badge/COFFEE-00FF41?style=flat-square&logo=coffeescript&logoColor=black" /> AND A 56K MODEM
-</h6>
