@@ -43,15 +43,15 @@
   <h3 style="color: #282828;">📺 FEATURED_WORLDS</h3>
   <br>
   <div align="center">
-    <a href="https://youtube.com">
+    <a href="studybuddy-c7c25.web.app/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=supajadhikari&repo=YOUR_REPO_NAME&theme=gruvbox&bg_color=EBDBB2&title_color=AF3A03&text_color=3C3836&hide_border=true" />
     </a>
-    <a href="https://youtube.com">
+    <a href="studybuddy-c7c25.web.app/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=supajadhikari&repo=ANOTHER_REPO&theme=gruvbox&bg_color=EBDBB2&title_color=AF3A03&text_color=3C3836&hide_border=true" />
     </a>
   </div>
   <br>
-  <a href="https://youtube.com">
+  <a href="studybuddy-c7c25.web.app/">
     <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-FB4934?style=for-the-badge&logo=github&logoColor=FBF1C7" />
   </a>
 </td>
