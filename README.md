@@ -41,33 +41,14 @@
 <tr>
 <td align="center" style="padding: 20px;">
   <h3 style="color: #282828;">📺 FEATURED_WORLDS</h3>
-  <br>
-  <div align="center">
-    <a href="studybuddy-c7c25.web.app/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=supajadhikari&repo=YOUR_REPO_NAME&theme=gruvbox&bg_color=EBDBB2&title_color=AF3A03&text_color=3C3836&hide_border=true" />
-    </a>
-    <a href="studybuddy-c7c25.web.app/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=supajadhikari&repo=ANOTHER_REPO&theme=gruvbox&bg_color=EBDBB2&title_color=AF3A03&text_color=3C3836&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <a href="studybuddy-c7c25.web.app/">
+
+  <a href="https://studybuddy-c7c25.web.app/">
     <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-FB4934?style=for-the-badge&logo=github&logoColor=FBF1C7" />
   </a>
 </td>
 </tr>
 </table>
 
-<br>
-
-<table border="0">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=supajadhikari&show_icons=true&theme=gruvbox&bg_color=282828&hide_border=true" height="150" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=supajadhikari&layout=compact&theme=gruvbox&bg_color=282828&hide_border=true" height="150" /></td>
-</tr>
-</table>
-
-<br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&color=B8BB26&center=true&width=400&lines=STAY+RADICAL;GAME+OVER+PREVENTED" />
 
 </div>
