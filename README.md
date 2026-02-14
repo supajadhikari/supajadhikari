@@ -1,23 +1,76 @@
-<h1 align="center">Hi 👋, I'm Supaj Adhikari</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SYSTEM+BOOT+COMPLETE...;WELCOME+USER:+SUPAJ+ADHIKARI" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supajadhikari&label=Profile%20views&color=0e75b6&style=flat" alt="supajadhikari" /> </p>
-
-- 🌱 I’m currently learning **Generative AI**
-
-- 📫 How to reach me **adhikarisupaj1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/spj_adh_f2f2331b90e182be9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="spj_adh_f2f2331b90e182be9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/supaj-adhikari-758716327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/supaj-adhikari-758716327" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/30257663/supaj-adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30257663/supaj-adhikari" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/h7E3NZ5d2H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/h7E3NZ5d2H" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-RETRO_OS_v1.0-00FF41?style=for-the-badge&logo=dosbox&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-ENCRYPTING_GEN_AI-00FF41?style=for-the-badge&logo=matrix&logoColor=00FF41&labelColor=000000" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supajadhikari&show_icons=true&locale=en&layout=compact" alt="supajadhikari" /></p>
+## 🖥️ SESSION_INFO
+> **USER:** Supaj Adhikari  
+> **MISSION:** Mastering Generative AI  
+> **LOCATION:** 127.0.0.1  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supajadhikari&show_icons=true&locale=en" alt="supajadhikari" /></p>
+* 🌱 **CURRENT_PROCESS:** Learning **Generative AI**
+* 📫 **PING_ME:** [adhikarisupaj1@gmail.com](mailto:adhikarisupaj1@gmail.com)
+* 📟 **DEVICE:** Nokia 3310 (Simulated)
+
+---
+
+## 🕹️ SYSTEM_STATS
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=supajadhikari&label=TOTAL_UPLINK_VIEWS&color=00FF41&style=for-the-badge" alt="Retro Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=supajadhikari&theme=matrix&no-bg=true&column=4" alt="trophies" />
+  </a>
+</p>
+
+---
+
+## 🛠️ TECH_STACK (LOADED_MODULES)
+<p align="left">
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></kbd>
+  <kbd><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></kbd>
+  <kbd><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></kbd>
+</p>
+
+---
+
+## 📟 DATABASE_CONNECTION
+<p align="center">
+<a href="https://dev.to/spj_adh_f2f2331b90e182be9"><img src="https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=devdotto&logoColor=00FF41" /></a>
+<a href="https://linkedin.com/in/supaj-adhikari-758716327"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+<a href="https://stackoverflow.com/users/30257663/supaj-adhikari"><img src="https://img.shields.io/badge/STACK_OVERFLOW-000000?style=for-the-badge&logo=stackoverflow&logoColor=00FF41" /></a>
+<a href="https://discord.gg/h7E3NZ5d2H"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=00FF41" /></a>
+</p>
+
+---
+
+## 📈 ANALYZING_REPOSITORY_DATA...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supajadhikari&show_icons=true&locale=en&layout=compact&theme=matrix&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=supajadhikari&show_icons=true&locale=en&theme=matrix&hide_border=true" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/supajadhikari/supajadhikari/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+---
+
+<h6 align="center">
+  MADE WITH <img src="https://img.shields.io/badge/COFFEE-00FF41?style=flat-square&logo=coffeescript&logoColor=black" /> AND A 56K MODEM
+</h6>
