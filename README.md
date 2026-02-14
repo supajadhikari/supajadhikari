@@ -1,26 +1,35 @@
 <div align="center">
 
-<table width="100%" bgcolor="#FBF1C7" border="0">
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=AF3A03&center=true&vCenter=true&width=800&height=100&lines=SUPAJ+ADHIKARI;FULL-STACK+MAGE" alt="Banner" />
+
+<p>
+  <img src="https://img.shields.io/badge/LIVES-❤❤❤-B8BB26?style=for-the-badge&labelColor=3C3836" />
+  <img src="https://komarev.com/ghpvc/?username=supajadhikari&label=PROFILE_VIEWS&color=458588&style=for-the-badge" />
+</p>
+
+<table width="100%" bgcolor="#FBF1C7" border="0" style="border: 2px solid #D5C4A1; border-radius: 10px;">
 <tr>
 <td align="center" style="padding: 20px;">
-  <h2 style="color: #282828;">👋 SYSTEM_INIT: SUPAJ ADHIKARI</h2>
-  <p style="color: #3C3836; font-family: 'Courier New';">
-    <b>Full-Stack Mage</b> specialized in <b>Generative AI</b>. <br> 
-    Building the future, one commit at a time.
+  <h2 style="color: #282828;">👋 SYSTEM_INIT</h2>
+  <p style="color: #3C3836; font-family: 'Courier New'; font-size: 16px;">
+    I am a developer focused on <b>Generative AI</b> and <b>Full-Stack Architectures</b>.<br>
+    Currently building scalable solutions and exploring the depths of the Cloud.
   </p>
-  <a href="https://linkedin.com/in/supaj-adhikari-758716327"><img src="https://img.shields.io/badge/LINKEDIN-458588?style=for-the-badge&logo=linkedin&logoColor=FBF1C7" /></a>
-  <a href="mailto:adhikarisupaj1@gmail.com"><img src="https://img.shields.io/badge/GMAIL-FB4934?style=for-the-badge&logo=gmail&logoColor=FBF1C7" /></a>
-  <a href="https://discord.gg/h7E3NZ5d2H"><img src="https://img.shields.io/badge/DISCORD-83A598?style=for-the-badge&logo=discord&logoColor=282828" /></a>
+  <br>
+  <a href="https://linkedin.com/in/supaj-adhikari-758716327"><img src="https://img.shields.io/badge/LinkedIn-458588?style=for-the-badge&logo=linkedin&logoColor=FBF1C7" /></a>
+  <a href="https://discord.gg/h7E3NZ5d2H"><img src="https://img.shields.io/badge/Discord-83A598?style=for-the-badge&logo=discord&logoColor=282828" /></a>
+  <a href="mailto:adhikarisupaj1@gmail.com"><img src="https://img.shields.io/badge/Gmail-FB4934?style=for-the-badge&logo=gmail&logoColor=FBF1C7" /></a>
+  <a href="https://dev.to/spj_adh_f2f2331b90e182be9"><img src="https://img.shields.io/badge/Dev.to-3C3836?style=for-the-badge&logo=devdotto&logoColor=FBF1C7" /></a>
 </td>
 </tr>
 </table>
 
 <br>
 
-<table width="100%" bgcolor="#EBDBB2" border="0">
+<table width="100%" bgcolor="#EBDBB2" border="0" style="border: 2px solid #D5C4A1; border-radius: 10px;">
 <tr>
 <td align="center" style="padding: 15px;">
-  <h3 style="color: #282828;">🎒 INVENTORY (SKILLS)</h3>
+  <h3 style="color: #282828;">🎒 INVENTORY (SKILL_SET)</h3>
   <img src="https://skillicons.dev/icons?i=python,js,ts,django,react,nodejs,mongodb,postgres,aws,firebase,flask,git,linux,bash,html,css,tailwind,docker,figma,postman&theme=dark&perline=10" />
 </td>
 </tr>
@@ -28,20 +37,37 @@
 
 <br>
 
-<h3 align="center">📺 FEATURED WORLDS (PROJECTS)</h3>
-<p align="center">
-  <a href="https://github.com/supajadhikari/YOUR_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=supajadhikari&repo=YOUR_REPO&theme=gruvbox&bg_color=FBF1C7&title_color=AF3A03&text_color=3C3836&hide_border=true" />
+<table width="100%" bgcolor="#FBF1C7" border="0" style="border: 2px solid #D5C4A1; border-radius: 10px;">
+<tr>
+<td align="center" style="padding: 20px;">
+  <h3 style="color: #282828;">📺 FEATURED_WORLDS</h3>
+  <br>
+  <div align="center">
+    <a href="https://youtube.com">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=supajadhikari&repo=YOUR_REPO_NAME&theme=gruvbox&bg_color=EBDBB2&title_color=AF3A03&text_color=3C3836&hide_border=true" />
+    </a>
+    <a href="https://youtube.com">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=supajadhikari&repo=ANOTHER_REPO&theme=gruvbox&bg_color=EBDBB2&title_color=AF3A03&text_color=3C3836&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <a href="https://youtube.com">
+    <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-FB4934?style=for-the-badge&logo=github&logoColor=FBF1C7" />
   </a>
-  <a href="https://github.com/supajadhikari/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=supajadhikari&repo=YOUR_REPO_2&theme=gruvbox&bg_color=FBF1C7&title_color=AF3A03&text_color=3C3836&hide_border=true" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=supajadhikari&label=TOTAL_VIEWS&color=8F3F71&style=flat-square" />
-</p>
+<table border="0">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=supajadhikari&show_icons=true&theme=gruvbox&bg_color=282828&hide_border=true" height="150" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=supajadhikari&layout=compact&theme=gruvbox&bg_color=282828&hide_border=true" height="150" /></td>
+</tr>
+</table>
+
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&color=B8BB26&center=true&width=400&lines=STAY+RADICAL;GAME+OVER+PREVENTED" />
 
 </div>
