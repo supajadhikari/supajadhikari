@@ -1,79 +1,80 @@
 <div align="center">
 
-# 🎚️ SYSTEM_32: SUPAJ_ADHIKARI
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=EAB308&center=true&vCenter=true&width=600&lines=WELCOME+TO+THE+JUNGLE;FULL-STACK+ORCHESTRATOR;GENERATIVE+AI+ADDICT" alt="Typing SVG" />
+# ▩ SUPAJ'S HOME PAGE ▩
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=~+ESTABLISHED+2024+~;FULL+STACK+DEVELOPMENT;LOADING+GEN-AI+MODULES..." alt="Retro Header" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VIBE-80s_GRUNGE-EAB308?style=for-the-badge&logo=winamp&logoColor=black" />
-  <img src="https://img.shields.io/badge/LEVEL-99-FFD700?style=for-the-badge&logo=retroarch&logoColor=black" />
-  <img src="https://komarev.com/ghpvc/?username=supajadhikari&label=PROFILE_LOADS&color=EAB308&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=plastic&logo=dosbox&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/VISITOR_NO-%2300421-EAB308?style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=supajadhikari&label=HITS&color=D4AF37&style=flat-square" />
 </p>
 
 ---
 
-<table border="0">
+<table border="5" cellpadding="10" cellspacing="5" bordercolor="#8B4513" bgcolor="#FFF8DC">
   <tr>
-    <td width="60%">
-      <h3>📼 DEV_LOG: BOOT_SEQUENCE</h3>
-      <p>I build modern tech with a <b>vintage heart</b>. Currently deep-diving into <b>Generative AI</b> and architecting glossy, high-performance backends.</p>
-      <ul style="list-style-type: '⚡ '">
-        <li><b>Main Skill:</b> Python / Django / React</li>
-        <li><b>Current Objective:</b> Master Neural Networks</li>
-        <li><b>Comms:</b> <a href="mailto:adhikarisupaj1@gmail.com">adhikarisupaj1@gmail.com</a></li>
-      </ul>
+    <td align="center" bgcolor="#D4AF37">
+      <font color="#000000" face="Courier New"><b>-- USER_PROFILE --</b></font>
     </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50" height="50" style="background: #EAB308; padding: 10px; border-radius: 15px; border: 4px solid #8B4513;" />
+  </tr>
+  <tr>
+    <td>
+      <font face="Verdana" size="3">
+        Welcome to my corner of the web! I am <b>Supaj Adhikari</b>, a developer building the future with tools from the past.
+        <br><br>
+        🔭 <b>NOW_CODING:</b> Scalable Web Architectures <br>
+        🧠 <b>RESEARCHING:</b> Generative AI & Neural Nets <br>
+        📧 <b>E-MAIL:</b> <a href="mailto:adhikarisupaj1@gmail.com">adhikarisupaj1@gmail.com</a>
+      </font>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 💿 PROJECT_SHOWCASE.EXE
+<table border="3" cellpadding="10" bordercolor="#008080" bgcolor="#C0C0C0">
+  <tr>
+    <td align="center">
+      <font face="MS Sans Serif" size="2"><b>MY_WEBSITE_V1.0</b></font><br><br>
+      <a href="https://YOUR-PROJECT-URL-HERE.com" target="_blank">
+        <img src="https://img.shields.io/badge/%5B_CLICK_TO_ENTER_SITE_%5D-008080?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+      </a>
+      <br>
+      <font size="1">Optimized for 800x600 resolution</font>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📻 NOW_PLAYING: FEATURED_PROJECT
-<div align="center">
-  <br />
-  <a href="https://YOUR-PROJECT-URL-HERE.com" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%96%B6_START_PROJECT-CLICK_HERE-black?style=for-the-badge&logo=playstation&logoColor=EAB308&labelColor=333333" height="60" />
-  </a>
-  <p><i>Uplink connected to your website... click above to engage.</i></p>
-  <br />
-</div>
-
----
-
-### 🎒 INVENTORY (EQUIPPED_ITEMS)
+### 🧰 THE_TOOLBOX
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,ts,django,react,nodejs,mongodb,postgres,aws,firebase,flask,git,linux,bash,html,css&theme=light" />
 </p>
 
 ---
 
-### 📡 GLOBAL_UPLINK
+### 🖇️ WEB_RINGS & LINKS
 <p align="center">
-<a href="https://linkedin.com/in/supaj-adhikari-758716327" target="blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-D4AF37?style=plastic&logo=linkedin&logoColor=black" />
-</a>
-<a href="https://dev.to/spj_adh_f2f2331b90e182be9" target="blank">
-  <img src="https://img.shields.io/badge/DEV.TO-EAB308?style=plastic&logo=devdotto&logoColor=black" />
-</a>
-<a href="https://stackoverflow.com/users/30257663/supaj-adhikari" target="blank">
-  <img src="https://img.shields.io/badge/STACK_OVERFLOW-F48024?style=plastic&logo=stack-overflow&logoColor=black" />
-</a>
-<a href="https://discord.gg/h7E3NZ5d2H" target="blank">
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=plastic&logo=discord&logoColor=white" />
-</a>
+  <a href="https://linkedin.com/in/supaj-adhikari-758716327"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/spj_adh_f2f2331b90e182be9"><img src="https://img.shields.io/badge/DEV_LOG-0A0A0A?style=plastic&logo=devdotto&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/30257663/supaj-adhikari"><img src="https://img.shields.io/badge/STACK-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://discord.gg/h7E3NZ5d2H"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=plastic&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🕯️ SAVED_GAMES
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supajadhikari&theme=solarized_light" />
-</p>
+<table border="1" width="100%" bordercolor="#808080">
+  <tr>
+    <td align="center" bgcolor="#C0C0C0">
+      <font face="Courier New" size="2" color="#000000">
+        <b>SYSTEM_MESSAGE:</b> Use your mouse to navigate. Have a nice day! 
+      </font>
+    </td>
+  </tr>
+</table>
+
+<img src="https://www.cutercounter.com/hits.php?id=gmvafp&nd=6&style=1" border="0" alt="visitor counter">
 
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&color=8B4513&center=true&width=400&lines=END+OF+TRANSMISSION...;SKEUOMORPHISM+IS+NOT+DEAD" />
-</p>
