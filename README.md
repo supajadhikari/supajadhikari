@@ -22,7 +22,7 @@
   <br>
   <font face="Georgia" size="0.5">REACH OUT VIA THE CHANNELS BELOW</font>
   <br><br>
-  <a href="mailto:yourname@email.com"><b><u>adhikarisupaj1@email.com</u></b></a>
+  <a href="mailto:yourname@email.com"><b><u>adhikarisupaj1@gmail.com</u></b></a>
 </p>
   
   <br>
