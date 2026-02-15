@@ -18,9 +18,9 @@
   
 <p align="center">
   <br>
-  <font face="Georgia" size="2"><i>The Contact Point</i></font>
+  <font face="Georgia" size="1"><i>The Contact Point</i></font>
   <br>
-  <font face="Georgia" size="1">REACH OUT VIA THE CHANNELS BELOW</font>
+  <font face="Georgia" size="0.5">REACH OUT VIA THE CHANNELS BELOW</font>
   <br><br>
   <a href="mailto:yourname@email.com"><b><u>adhikarisupaj1@email.com</u></b></a>
 </p>
