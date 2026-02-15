@@ -12,13 +12,22 @@
 <td align="center" style="padding: 20px;">
   <h2 style="color: #282828;">👋 SYSTEM_INIT</h2>
   <p style="color: #3C3836; font-family: 'Courier New'; font-size: 16px;">
-    I am a developer focused on <b>Generative AI</b> and <b>Full-Stack Architectures</b>.<br>
+    I am a developer focused on <b>Generative AI</b> and <b>Full-Stack Architectures.</b>.<br>
     Currently building scalable solutions and exploring the depths of the Cloud.
   </p>
+  
+<p align="center">
+  <br>
+  <font face="Georgia" size="6"><i>The Contact Point</i></font>
+  <br>
+  <font face="Georgia" size="3">REACH OUT VIA THE CHANNELS BELOW</font>
+  <br><br>
+  <a href="mailto:yourname@email.com"><b><u>adhikarisupaj1@email.com</u></b></a>
+</p>
+  
   <br>
   <a href="https://linkedin.com/in/supaj-adhikari-758716327"><img src="https://img.shields.io/badge/LinkedIn-458588?style=for-the-badge&logo=linkedin&logoColor=FBF1C7" /></a>
   <a href="https://discord.gg/h7E3NZ5d2H"><img src="https://img.shields.io/badge/Discord-83A598?style=for-the-badge&logo=discord&logoColor=282828" /></a>
-  <a href="mailto:adhikarisupaj1@gmail.com"><img src="https://img.shields.io/badge/Gmail-FB4934?style=for-the-badge&logo=gmail&logoColor=FBF1C7" /></a>
   <a href="https://dev.to/spj_adh_f2f2331b90e182be9"><img src="https://img.shields.io/badge/Dev.to-3C3836?style=for-the-badge&logo=devdotto&logoColor=FBF1C7" /></a>
 </td>
 </tr>
