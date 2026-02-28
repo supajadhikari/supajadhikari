@@ -13,7 +13,7 @@
 <td align="center" style="padding: 20px;">
   <h2 style="color: #282828;">👋 SYSTEM_INIT</h2>
   <p style="color: #3C3836; font-family: 'Courier New'; font-size: 16px;">
-    I am a developer focused on <b>Generative AI</b> and <b>Full-Stack Architectures.</b><br>
+    I am a developer focused on <b>Generative AI</b> and <b>Backend.</b><br>
     Currently building scalable solutions and exploring the depths of the Cloud.
   </p>
   
