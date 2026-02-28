@@ -58,7 +58,7 @@
   </a>
   
   <p style="color: #3C3836; font-family: 'Courier New'; font-size: 14px; margin-top: 15px;">
-    Click <b>ENTER_PORTFOLIO</b> to explore my latest AI and Web deployments.
+    Click <b>ENTER_PORTFOLIO</b> to know about me.
   </p>
 </td>
 </tr>
