@@ -37,7 +37,7 @@
 <tr>
 <td align="center" style="padding: 15px;">
   <h3 style="color: #282828;">🎒 INVENTORY (SKILL_SET)</h3>
-  <img src="https://skillicons.dev/icons?i=python,flask,firebase,git,linux,postman=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,flask,firebase,git,linux,vercel,postman,=dark&perline=12" />
 </td>
 </tr>
 </table>
